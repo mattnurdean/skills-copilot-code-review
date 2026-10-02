@@ -2,7 +2,7 @@
 applyTo: "backend/**/*,*.py"
 ---
 
-## Backend Guideliness
+## Backend Guidelines
 
 - All API endpoints must be defined in the `routers` folder.
 - Load example database content from the `database.py` file.

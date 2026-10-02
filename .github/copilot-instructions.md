@@ -1,4 +1,4 @@
-## Securityy
+## Security
 
 - Validate input sanitization practices.
 - Search for risks that might expose user data.
